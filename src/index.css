@@ -3,10 +3,11 @@
 @theme {
   --color-primary: #4cb5ae;
   --color-secondary: #bdb246;
-  --color-accent: #ff101f;
+  --color-accent: var(--color-purple-500);
   --color-background: #000000;
   
   --font-display: "Inter", sans-serif;
+  
 
   @keyframes grow {
     0% {
@@ -16,6 +17,7 @@
       transform: scale(1.05);
     }
   }
+
   
 }
 
@@ -54,8 +56,15 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  font-weight: 700;
+}
+h2 {
+  font-size: 2em;
+  line-height: 1.1;
+  font-weight: 500;
 }
 
+/*
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -74,6 +83,7 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+*/
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -87,6 +97,7 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
 
 /* Animations */
 /* In your index.css or a global stylesheet */
@@ -103,5 +114,22 @@ button:focus-visible {
     }
   100% {
     background-position: 0% 50%;
+  }
+}
+
+@keyframes wiggle {
+  0%, 100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(-10deg);
+  }
+}
+
+
+
+@media (hover: none) {
+  .waving-hand {
+      animation: wiggle 1s ease-in-out infinite;
   }
 }

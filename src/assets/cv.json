@@ -1,0 +1,161 @@
+{
+  "name": "Marta Vasconcelos",
+  "tagline": "Working to build a better tomorrow",
+  "contacts": {
+    "phone": "+351 961 749 027",
+    "email": "marta.sofia.vasconcelos@gmail.com",
+    "linkedin": "https://linkedin.com/in/martasofiavasconcelos",
+    "website": "https://martasv.com",
+    "location": "Lisbon, Portugal"
+  },
+  "aboutMe": "I am a passionate and highly driven top student in Biomedical Engineering with a desire to make an impact on people’s lives. Always looking for the next big challenge. Quick learner with a strong analytical and artistic side. Focused, resilient and aspiring leader.",
+  "quote": "People who say it can’t be done should not interrupt those who are doing it.",
+  "skills": {
+    "languages": [
+      { "name": "Portuguese", "level": 5 },
+      { "name": "English", "level": 5 },
+      { "name": "Spanish", "level": 4 },
+      { "name": "German", "level": 3 },
+      { "name": "French", "level": 3 }
+    ],
+    "technical": [
+      {
+        "name": "Programming",
+        "level": 5,
+        "notes": "Python, Java, C#, Swift, JavaScript, Bash"
+      },
+      {
+        "name": "Data Analysis",
+        "level": 4
+      },
+      {
+        "name": "Office Suite",
+        "level": 4.5
+      },
+      {
+        "name": "Zotero",
+        "level": 5
+      },
+      {
+        "name": "LaTeX",
+        "level": 4.5
+      },
+      {
+        "name": "CAD",
+        "level": 3.5
+      },
+      {
+        "name": "Adobe Suite",
+        "level": 3.5
+      }
+    ],
+    "soft": [
+      {
+        "name": "Public Speaking",
+        "level": 4.5
+      },
+      {
+        "name": "Team Management",
+        "level": 3.5
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Instituto Superior Técnico",
+      "degree": "BSc Biomedical Engineering",
+      "dates": "Sep 2022 – Jul 2025",
+      "grade": "18.3/20",
+      "coursework": [
+        "Computation and Programming (20/20)",
+        "Physiology (19/20)",
+        "Principles of Bioinstrumentation (20/20)"
+      ]
+    },
+    {
+      "institution": "Athens Program at École des Ponts ParisTech",
+      "program": "Startup Creathon",
+      "dates": "Nov 2023",
+      "description": "Led a team of international students in the development of a startup concept"
+    },
+    {
+      "institution": "Escola Secundária Daniel Sampaio",
+      "degree": "High School Degree",
+      "dates": "Sep 2019 – Jun 2022",
+      "grade": "19.8/20",
+      "description": "Top student in school"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Biosignal/ML Research at Instituto de Telecomunicações",
+      "group": "Pattern and Image Analysis Group",
+      "dates": "Oct 2023 – Apr 2025",
+      "description": [
+        "Organising a database from unsorted hospital data, collected from patients with epilepsy",
+        "Classification of sleep stages from wearable data (SVM, LSTM) for epileptic seizure prediction",
+        "ECG electrode misalignment detection with ML (Grade: 20/20)"
+      ],
+      "note": "Extracurricular"
+    },
+    {
+      "title": "Intern at Molecular Medicine Institute",
+      "group": "Computational Psychiatry Research Group",
+      "dates": "Jun 2024 – Mar 2025",
+      "description": "Reviewing literature regarding reinforcement learning in the study of ADHD"
+    },
+    {
+      "title": "Gulbenkian Fellow at Champalimaud Centre for the Unknown",
+      "group": "Natural Intelligence Lab",
+      "dates": "Nov 2024 – Present",
+      "description": "Developing Behavioural Experiments to study Spatial Inference in humans at McNamee Lab, under the Gulbenkian New Talents Fellowship"
+    },
+    {
+      "title": "BSc Final Project at Institute for Systems and Robotics",
+      "lab": "Laseeb",
+      "dates": "Feb 2025 – Jul 2025",
+      "description": "Analysing Motor Imagery from EEG in a VR setting"
+    }
+  ],
+  "studentOrganisations": [
+    {
+      "role": "External Relations Team Leader",
+      "organization": "Biomedical Engineering Student Association @ IST Lisbon",
+      "dates": "Sep 2023 – Present",
+      "link": "https://nebm.tecnico.ulisboa.pt/"
+    },
+    {
+      "role": "Management and Marketing Team Member",
+      "organization": "Rocket Experiment Division @ IST Lisbon",
+      "dates": "May 2023 – Dec 2024",
+      "link": "https://aerotec.pt/red"
+    }
+  ],
+  "awardsCompetitions": [
+    {
+      "description": "Winner (top ~1%) of Spring 2025 McKinsey Atrevete Scholarships",
+      "date": "Mar 2025"
+    },
+    {
+      "description": "Gulbenkian New Talents Fellowship Awardee",
+      "date": "Nov 2024 – Present"
+    },
+    {
+      "description": "2× NASA World Finalist – International Space Settlement Design Competition, Kennedy Space Center, Orlando",
+      "date": "Aug 2022, 2023"
+    },
+    {
+      "description": "Intro to Quantum Computing Course at QubitXQubit",
+      "date": "Sep 2021 – Apr 2022"
+    },
+    {
+      "description": "Speaker at National Events: Ciência ’22, SummerCEMP 2024",
+      "date": "Apr 2022, Aug 2024"
+    },
+    {
+      "description": "Literacia 3Di National Winner",
+      "date": "2018"
+    }
+  ],
+  "lastUpdated": "Jun 2025"
+}
